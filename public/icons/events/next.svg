@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.0" height="48.0" viewBox="0 0 48.0 48.0" fill="none">
+<path transform="translate(0.0 0.0)" d="M0 24C0 10.7452 10.7452 0 24 0L24 0C37.2548 0 48 10.7452 48 24L48 24C48 37.2548 37.2548 48 24 48L24 48C10.7452 48 0 37.2548 0 24L0 24Z" fill="#1a1b2d" fill-opacity="1.0" fill-rule="nonzero"/>
+<path transform="translate(0.0 0.0)" d="M0 24M48 24M48 24M0 24M24 0M48 24M24 48M0 24M24 48L24 47C11.2975 47 1 36.7025 1 24L0 24L-1 24C-1 37.8071 10.1929 49 24 49L24 48ZM48 24L47 24C47 36.7025 36.7025 47 24 47L24 48L24 49C37.8071 49 49 37.8071 49 24L48 24ZM24 0L24 1C36.7025 1 47 11.2975 47 24L48 24L49 24C49 10.1929 37.8071 -1 24 -1L24 0ZM24 0L24 -1C10.1929 -1 -1 10.1929 -1 24L0 24L1 24C1 11.2975 11.2975 1 24 1L24 0Z" fill="#c7c5d0" fill-opacity="0.1"/>
+<path transform="translate(20.3 18.0)" d="M4.6 6L0 1.4L1.4 0L7.4 6L1.4 12L0 10.6L4.6 6L4.6 6" fill="#ffffff" fill-opacity="1.0" fill-rule="nonzero"/>
+</svg>

@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+/* Design tokens from the New Covenant Church Figma file */
+@theme {
+  --font-sans: var(--font-lexend), ui-sans-serif, system-ui, sans-serif;
+
+  --color-navy: #151a4b;
+  --color-ink: #00012d;
+  --color-brand-red: #bc0100;
+  --color-gold: #cca830;
+
+  --color-body: #1b1b1f;
+  --color-muted: #46464f;
+  --color-subtle: #777680;
+  --color-outline: rgb(199 197 208);
+
+  --color-surface: #f6f2f7;
+  --color-surface-bright: #fcf8fd;
+  --color-surface-dim: #eae7ec;
+  --color-blush: #fff5f2;
+  --color-surface-container: #f0edf2;
+  --color-butter: #ffe088;
+  --color-on-butter: #241a00;
+
+  --shadow-card: 0 4px 20px 0 rgb(21 26 75 / 0.08);
+  --shadow-card-sm: 0 4px 10px 0 rgb(21 26 75 / 0.08);
+}
+
+@layer base {
+  /* Keep in-page anchors clear of the fixed header */
+  html {
+    scroll-padding-top: 80px;
+  }
+
+  body {
+    @apply bg-surface-bright font-sans text-body antialiased;
+  }
+}

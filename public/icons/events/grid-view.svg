@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.0" height="26.0" viewBox="0 0 26.0 26.0" fill="none">
+<path transform="translate(0.0 0.0)" d="M0 4C0 1.79086 1.79086 0 4 0L22 0C24.2091 0 26 1.79086 26 4L26 22C26 24.2091 24.2091 26 22 26L4 26C1.79086 26 0 24.2091 0 22L0 4Z" fill="#151a4b" fill-opacity="1.0" fill-rule="nonzero"/>
+<path transform="translate(4.0 4.0)" d="M0 8L0 0L8 0L8 8L0 8L0 8M0 18L0 10L8 10L8 18L0 18L0 18M10 8L10 0L18 0L18 8L10 8L10 8M10 18L10 10L18 10L18 18L10 18L10 18" fill="#7e83ba" fill-opacity="1.0" fill-rule="nonzero"/>
+</svg>
